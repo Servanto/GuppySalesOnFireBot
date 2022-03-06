@@ -5,3 +5,5 @@
 
 This project should notify you if NFTs of the collection "GuppyGang" are getting listed, but only the ones with extraordinary ticket scores!
 The standard setting for the price range will be the floor price to 10% above floor price or just a flat 0,05 above the floor price if the 10% is less then 0,05.
+
+*Disclaimer 3: Tried it with python but the wrapper I used doesn't have the /orders endpoint...fallback to javascript*
